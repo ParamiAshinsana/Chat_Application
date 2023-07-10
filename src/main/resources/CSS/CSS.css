@@ -1,0 +1,10 @@
+.txtClient{
+    -fx-border-radius: 20px ,20px ,20px ,20px;
+    -fx-background-radius: 20px ,20px ,20px ,20px;
+}
+
+.EmojiPane{
+    -fx-border-radius: 10px ,10px ,10px ,10px;
+    -fx-background-radius: 10px ,10px ,10px ,10px;
+    -fx-border-color: black;
+}

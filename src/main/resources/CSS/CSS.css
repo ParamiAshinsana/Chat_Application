@@ -8,3 +8,12 @@
     -fx-background-radius: 10px ,10px ,10px ,10px;
     -fx-border-color: black;
 }
+
+.TextFiled{
+    -fx-border-radius: 15px 15px 15px 15px;
+    -fx-background-radius: 15px 15px 15px 15px;
+}
+.Loginbtn{
+    -fx-border-radius: 20px 20px 20px 20px;
+    -fx-background-radius: 20px 20px 20px 20px;
+}
